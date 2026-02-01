@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Krash and I'm a fivem developer, from Poland</h2>
+<h2 align="left">Hi 👋! I'm Krash and I'm a developer, from Poland</h2>
 
 ###
 
